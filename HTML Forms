@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sign Up Form</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='http://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/main.css">
+
+    </head>
+    <body>
+
+      <form action="index.html" method="post">
+
+        <h1>Sign Up</h1>
+        <input type="name" id="name" name="user_name">
+        <input type="email" id="mail" name="user_email"
+
+        <label>1) Exercise will improve my ability to perform daily activities:</label>
+          <input type="radio" id="STRONGLY DISAGREE" value="STRONGLY DISAGREE" name="user_SD">
+          <label for="STRONGLY DISAGREE" class="light">STRONGLY DISAGREE</label>
+
+          <input type="radio" id="DISAGREE" value="DISAGREE" name="user_D">
+          <label for="DISAGREE" class="light"> DISAGREE</label>
+
+
+          <input type="radio" id="NEUTRAL" value="NEUTRAL" name="user_N">
+          <label for="NEUTRAL" class="light">NEUTRAL</label>
+
+          <input type="radio" id="AGREE" value="AGREE" name="user_A">
+          <label for="AGREE" class="light">AGREE</label>
+
+          <input type="radio" id="STRONGLY AGREE" value="STRONGLY AGREE" name="user_SA">
+          <label for="STRONGLY AGREE" class="light">STRONGLY AGREE</label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <button type="submit">Sign Up</button>
+
+      </form>
+
+    </body>
+</html>

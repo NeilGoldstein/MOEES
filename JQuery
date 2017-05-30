@@ -1,0 +1,12 @@
+{name: string,
+ email: string,
+ answers: [
+
+
+ {
+    question: string,
+    score: number,
+
+ }
+ ]
+ }
